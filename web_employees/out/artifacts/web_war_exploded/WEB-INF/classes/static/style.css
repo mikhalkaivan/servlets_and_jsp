@@ -1,0 +1,9 @@
+
+.container {
+    margin: 50px;
+    padding: 50px;
+    alignment: center;
+    position: center;
+    child-align: middle;
+}
+
